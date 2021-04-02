@@ -1,0 +1,16 @@
+{
+  "name": "@mi/webpack-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist && webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^4",
+    "webpack-cli": "^4.5.0"
+  }
+}
